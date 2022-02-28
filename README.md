@@ -2,7 +2,7 @@
   align="right"
   src="readme logo.png"
   style="width: 130px; height: 130px"> 
-# Regular-Expressions-MySQL
+# Data-Extraction-Patterns
 
 Regex, or Regular Expressions, is an amazing sequence of characters that comes in handy when we need quickly retrieve data
 
