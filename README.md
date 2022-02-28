@@ -6,7 +6,8 @@
 
 Regex, or Regular Expressions, is an amazing sequence of characters that comes in handy when we need quickly retrieve data
 
-This project shows how to filter out data efficiently using Regular Expressions
+I wanted to learn how to filter out data efficiently using RegEx in MySQL, so I came with the idea of this project
+
 ## Authors
 
 - [@svetlana_redkina](https://github.com/SvetlanaRedkina)
