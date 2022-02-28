@@ -15,10 +15,11 @@ Regex, or Regular Expressions, is an amazing sequence of characters 👏 that co
 
 Authors
 
-- [@svetlana_redkina](https://github.com/SvetlanaRedkina)
+- [@SvetlanaRedkina](https://github.com/SvetlanaRedkina)
+
 
 Honest feedback
 
-If you have any feedback, please reach out to me at sveta.hq@gmail.com
+- If you have any feedback, please reach out to me at sveta.hq@gmail.com
 
 I am glad you have visited my project 🌹
