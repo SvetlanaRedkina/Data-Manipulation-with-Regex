@@ -20,3 +20,5 @@ Authors
 Honest feedback
 
 If you have any feedback, please reach out to me at sveta.hq@gmail.com
+
+I am glad you have visited my project 🌹
