@@ -1,6 +1,6 @@
 CREATE TABLE CustomerInfo (
-	CustomerId INTEGER NOT NULL AUTO_INCREMENT,
-     FirstName VARCHAR(255),
+	 CustomerId INTEGER NOT NULL AUTO_INCREMENT,
+         FirstName VARCHAR(255),
 	 LastName VARCHAR(255),
 	 Address TEXT,
 	 City VARCHAR(255),
